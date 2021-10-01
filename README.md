@@ -49,24 +49,24 @@ The primary responsibilities of an App Developer include creating, testing and p
 ## How To Create an APK of your app 📲
 
 1. Open the desired project in android studio. <br>
-2. Open Build tab  located on the task bar and click on generate signed bundle. A pop up given below appears with 2 options. <br>
+2. lick on Build tab located on the task bar and click on generate signed bundle. The following pop up appears with 2 options. <br>
 * image1
 3. Select the APK option. <br>
 * image2
-4. Click create new button below fill key store path <br>
-5. Create a folder called key where your app is located <br>
-6. Create a new file and name it press OK. <br>
+4. Click on create new button and fill the key store path. <br>
+5. If not created already,create a folder called key where your app is located.  <br>
+6. Create a new file, after naming it, press OK. <br>
 * image3
-7. Create a password & an alias and now In the certificate section fill one or more fields. <br>
+7. Create a key specific password & an alias password. In the certificate section fill one or more fields (preferably name field). <br>
 * image4
-8. Select Release option <br>
+8. Select Release option. <br>
 9. Select the V2 (full APK signature version) option. <br>
 * image5
-10. Click on finish, your gradle build initiates. <br>
+10. Click on finish, your gradle build initiates as seen below. <br>
 * image6
-11. The following message appears. <br>
+11. When the following message appears, you apk is generated. <br>
 * image7
-12. Now you could locate your apk , go inside the release  folder and you will find your generated APK there. <br>
+12. Now you could locate your APK by going inside the release folder where you will find your generated APK. <br>
 * image8 &image9
 
     
