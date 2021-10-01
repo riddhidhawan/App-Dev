@@ -30,14 +30,14 @@ The primary responsibilities of an App Developer include creating, testing and p
 
 ### Here are a few ideas you could try out :
 
-🧮 Calculator App 
-🌡 Weather App 
-⏰ Habit Tracker App 
-🎬 Movie Review app 
-😸 App incorparating the cat Api. 
-📃 A Quiz App
-✔ Voting System App
-🎶 Music Suggestion App 
+🧮 Calculator App <br>
+🌡 Weather App. <br>
+⏰ Habit Tracker App. <br>
+🎬 Movie Review App <br>
+😸 App incorparating the cat Api. <br>
+📃 A Quiz App. <br>
+✔ Voting System App. <br>
+🎶 Music Suggestion App. <br> 
 
 ###### API Reference: https://github.com/public-apis/public-apis 
 
