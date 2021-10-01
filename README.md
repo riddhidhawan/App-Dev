@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-<img src="https://thumbs.gfycat.com/CoolCelebratedAfricanparadiseflycatcher.webp">
+<img src="https://png.pngtree.com/element_our/png/20181015/mobile-applications-and-mobile-development-concept.-flat-vector-illustration.-png_133093.jpg">
 </p>
 
 
