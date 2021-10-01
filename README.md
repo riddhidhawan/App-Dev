@@ -28,17 +28,15 @@ An app developer is a computer software engineer whose primary responsibilities 
 
 ---
 
-Ideas you could try out:
+### Ideas you could try out:
 
-* Notes App / Remainders App
 * Calculator App
 * Weather App 
-* Habit tracker App
-* App using the  cat api
-* Movie review app
-* A Quiz App 
+* Habit Tracker App
+* Movie Review app
+* App incorparating the cat Api.
+* A Quiz App
 * Voting System App
-* App that would help in e-learning
 * Music Suggestion App
 
 Feel free to contribute your own ideas! 
