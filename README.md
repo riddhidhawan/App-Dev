@@ -43,7 +43,7 @@ Ideas you could try out:
 
 Feel free to contribute your own ideas! 
 
-*API Reference: https://github.com/public-apis/public-apis 
+API Reference: https://github.com/public-apis/public-apis 
 
 
 ## How To Create a SDk
