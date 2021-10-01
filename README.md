@@ -46,7 +46,7 @@ The primary responsibilities of an App Developer include creating, testing and p
 
 
 
-## How To Create an APK of your app
+## How To Create an APK of your app 📲
 
 1. Open the desired project in android studio. <br>
 2. Open Build tab  located on the task bar and click on generate signed bundle. A pop up given below appears with 2 options. <br>
