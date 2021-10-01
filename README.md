@@ -18,3 +18,36 @@ Application development is the process of creating a computer program or a set o
 
 An app developer is a computer software engineer whose primary responsibilities include creating, testing and programming apps for computers, mobile phones, and tablets. These developers typically work in teams, and think of ideas and concepts either for the general public, or for a specific customer need.
 
+## Languages🗣
+
+---
+
+* Java ☕️
+* Kotlin 😼
+* Dart  🎯
+
+---
+
+Ideas you could try out:
+
+* Notes App / Remainders App
+* Calculator App
+* Weather App 
+* Habit tracker App
+* App using the  cat api
+* Movie review app
+* A Quiz App 
+* Voting System App
+* App that would help in e-learning
+* Music Suggestion App
+
+Feel free to contribute your own ideas! 
+
+API Reference: https://github.com/public-apis/public-apis 
+
+
+## How To Create a SDk
+
+-todo
+
+
