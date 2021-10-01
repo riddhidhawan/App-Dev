@@ -51,3 +51,6 @@ API Reference: https://github.com/public-apis/public-apis
 -todo
 
 
+<p align="center">
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>
